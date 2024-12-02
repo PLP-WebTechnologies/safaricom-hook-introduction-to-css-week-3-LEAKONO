@@ -1,0 +1,54 @@
+/* External CSS */
+
+/* General Body Styling */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Background color for the webpage */
+}
+
+/* Header Styling */
+h1 {
+    text-align: center;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+/* Footer Links Styling */
+a.footer-link {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+
+a.footer-link:hover {
+    color: darkorange;
+    text-decoration: underline;
+}
+
+/* Card Component Styling */
+.card {
+    width: 300px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+footer{
+ text-align: center;
+}
